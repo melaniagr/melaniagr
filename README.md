@@ -40,5 +40,5 @@ As a disclaimer, I have used Perplexity AI to aid me in this process, mainly in 
 - 🟠 Math for Machine Learning
 - 🟠 EMG Bioamplifier
 
-**Weekly progress**: [PROGRESS-TRACKER](https://github.com/melaniagr/melaniaGR-phd-prep/blob/main/PROGRESS-TRACKER.md)
+
 
