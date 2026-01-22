@@ -29,7 +29,7 @@ As a disclaimer, I have used Perplexity AI to aid me in this process, mainly in 
 | **Phase 2: Foundational** | 🟠 85% | Dec 2025-Jan 2026 | Neuro + math foundations |
 | **Phase 3: In Depth** | 🟠 Live | Jan-Aug 2026 | 4 projects, weekly tracking |
 
-**Full plan + weekly tracker**: [melaniaGR-phd-prep-master](https://github.com/melaniagr/melaniaGR-phd-prep)
+**Full plan + weekly tracker**: [melaniaGR-phd-prep](https://github.com/melaniagr/phd-prep/blob/main/PROGRESS-TRACKER.md)
 
 ---
 
