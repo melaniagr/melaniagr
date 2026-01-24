@@ -1,4 +1,4 @@
-# Hola!
+# hola!
 **Computational Cognitive Science PhD Candidate Preparation**
 
 ---
@@ -19,25 +19,25 @@ As a disclaimer, I have used Perplexity AI to aid me in this process, mainly in 
 
 ---
 
-## 📚 Study Plan Overview
+## study plan overview
 
-**3 Phases** (Introductory → Foundational → In Depth) across **5 workstreams**:
+**3 phases** (introductory → foundational → in depth) across **6 workstreams**:
 
-| Phase | Status | Timeline | Details |
+| phase | status | timeline | details |
 |-------|--------|----------|---------|
-| **Phase 1: Introductory** | ✅ Complete | 2023-Nov 2025 | 13 certs, healthcare innovation |
-| **Phase 2: Foundational** | 🟠 85% | Dec 2025-Jan 2026 | Neuro + math foundations |
-| **Phase 3: In Depth** | 🟠 Live | Jan-Aug 2026 | 4 projects, weekly tracking |
+| **1: introductory** | ✅ complete | 2023-Nov 2025 | 20 certs, healthcare innovation + research and QI |
+| **2: foundational** | 🟠 85% | Dec 2025-Jan 2026 | neuro + math foundations |
+| **3: in depth** | 🟠 live | Jan-Aug 2026 | math + programming + neuroscience + hands-on projects |
 
-**Full plan + weekly tracker**: [melaniaGR-phd-prep](https://github.com/melaniagr/phd-prep/blob/main/PROGRESS-TRACKER.md)
+**full plan + weekly tracker**: [melaniaGR-phd-prep](https://github.com/melaniagr/phd-prep/blob/main/PROGRESS-TRACKER.md)
 
 ---
 
-## 📍 Current Focus (Phase 3: In Depth)
+## 📍 current focus (phase 3: in depth)
 
-- 🟠 MIT Python XSeries (Computational Thinking)
-- 🟠 HarvardX Neuroscience (Parts 2-4)
-- 🟠 Math for Machine Learning
+- 🟠 MIT python Xseries (computational thinking)
+- 🟠 HarvardX neuroscience (Parts 2-4)
+- 🟠 Math for Machine Learning (MIT OCW, Imperial specialization, textbook)
 - 🟠 EMG Bioamplifier
 
 
