@@ -15,7 +15,7 @@ Because this study plan evolved organically, I'm currently bridging Phases 2 and
 
 One of the things I have discovered is that I work better if I have a concrete plan in the short term, but more diffuse in the long term, allowing for changes that arise with experience.
 
-As a disclaimer, I have used Perplexity AI to aid me in this process, mainly in the beginning of each phase.
+As a disclaimer, I have built this github with the help of Perplexity AI - which has helped my ADHD brain materialize the structure in an efficient way. 
 
 ---
 
@@ -25,11 +25,15 @@ As a disclaimer, I have used Perplexity AI to aid me in this process, mainly in 
 
 | phase | status | timeline | details |
 |-------|--------|----------|---------|
-| **1: introductory** | ✅ complete | 2023-Nov 2025 | 20 certs, healthcare innovation + research and QI |
+| **1: introductory** | ✅ complete | -July 2024 | 20 certs, healthcare innovation + research and QI |
 | **2: foundational** | 🟠 85% | Dec 2025-Jan 2026 | neuro + math foundations |
 | **3: in depth** | 🟠 live | Jan-Aug 2026 | math + programming + neuroscience + hands-on projects |
 
-**full plan + weekly tracker**: [melaniaGR-phd-prep](https://github.com/melaniagr/phd-prep/blob/main/PROGRESS-TRACKER.md)
+**useful links**:  
+[study plan README](https://github.com/melaniagr/phd-prep/blob/main/README.md) - subsequent links here to each phase, certifications, notes, etc   
+[progress tracker](https://github.com/melaniagr/phd-prep/blob/main/progress-tracker.md)  
+[research and QI portfolio](https://github.com/melaniagr/research-and-QI-portfolio/tree/main)
+
 
 ---
 
