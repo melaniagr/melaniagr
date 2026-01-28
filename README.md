@@ -31,9 +31,9 @@ As a disclaimer, I have built this github with the help of Perplexity AI - which
 
 **useful links**:  
 [phd prep repo](https://github.com/melaniagr/phd-prep) is the structure I am working within   
-[phd-prep README](https://github.com/melaniagr/phd-prep/blob/main/README.md) has a bit of an inside of my journey along with subsequent links to each phase, certifications, notes, etc   
+[phd-prep README](https://github.com/melaniagr/phd-prep/blob/main/README.md) has a bit of an inside of my journey along with subsequent links to each phase, reflections, certifications, notes, etc   
 [progress tracker](https://github.com/melaniagr/phd-prep/blob/main/progress-tracker.md) which I aim to update every week, even for my own sake     
-[research and QI portfolio](https://github.com/melaniagr/research-and-QI-portfolio/tree/main) which mainly contains applied work and goes along some of the programmes I have attended   
+[research and QI portfolio](https://github.com/melaniagr/research-and-QI-portfolio/tree/main) which mainly contains applied work and goes along with some of the programmes I have attended   
 
 ---
 
