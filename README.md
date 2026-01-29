@@ -15,6 +15,8 @@ Because this study plan evolved organically, I'm currently bridging Phases 2 and
 
 One of the things I have discovered is that I work better if I have a concrete plan in the short term, but more diffuse in the long term, allowing for changes that arise with experience.
 
+For a longer reflection, read [Why Computational Cognitive Science?](https://github.com/melaniagr/phd-prep/blob/main/research-statement-why-computational-cognitive-science.md)
+
 As a disclaimer, I have built this github with the help of Perplexity AI - which has helped my ADHD brain materialize the structure in an efficient way. 
 
 ---
