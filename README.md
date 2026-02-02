@@ -3,7 +3,7 @@
 
 ---
 
-Hi all, I started learning about Innovation in Healthcare thinking that many systems can be improved. At first, I grabbed different materials such as online courses in Innovation in Healthcare, ranging from What is innovation? to Health Technology assessment and Data Ethics. In parallel, I developed research and clinical skills through audit and quality improvement work.
+Hi all, I started learning about Innovation in Healthcare thinking that many systems can be improved. At first, I grabbed different materials such as online courses in Innovation in Healthcare, starting with *What is innovation?* or *Digital health* to more detailed topics such as *Health Technology assessment* and *Data Ethics*. In parallel, I developed research and clinical skills through audit and quality improvement work.
 
 After this process, I felt the need to go deeper, seeking technical expertise. Hence I continued with Stanford’s University Fundamentals of Machine Learning for Healthcare and Evaluations of AI Applications in Healthcare. By this point I was convinced I wanted to pursuit further training and developed a strategy to level up my skills.
 
