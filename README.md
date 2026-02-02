@@ -9,9 +9,9 @@ After this process, I felt the need to go deeper, seeking technical expertise. H
 
 When asking myself in which specific area, it was clear I wanted to continue in the Cognitive Sciences, since I have always been fascinated by the mind – and consequently worked or shadowed consultants in Neurosurgery, Neurology and Psychiatry departments. When asking myself from which angle I wanted to study the mind, I knew I wanted it to be from the computational side – a field I wanted to immerse myself since I had my first encounter with the course “Synapses, neurons and brains” by Idan Segev. I was fascinated with the possibility of describing the mind in mathematical terms, which can ultimately help design implementation tools and systems and therefore improve the quality of life of people. 
 
-After dozens of iterations, I settled on a study plan: **5 workstreams** (Innovation/AI, Math, Neuroscience, Research+QI, Hands-on Projects) organized into **3 phases** by depth: Introductory → Foundational → In Depth.
+After dozens of iterations, I settled on a study plan: **5 workstreams** (Innovation/AI, Math, Neuroscience, Research+QI, Hands-on Projects) organized into **3 phases** by depth: Introductory → Foundational → In Depth - more about the rationale at [learning journey](https://github.com/melaniagr/phd-prep/blob/main/learning_journey.md). 
 
-Because this study plan evolved organically, I'm currently bridging Phases 2 and 3. The chronological order doesn't perfectly align before formalizing it. I aim to be fully in **Phase 3 by end of February** (tracked weekly). 
+Because this study plan evolved organically, I'm currently bridging Phases 2 and 3. The chronological order doesn't perfectly align before formalizing it. I aim to be fully in **Phase 3 by mid February** (tracked weekly). 
 
 One of the things I have discovered is that I work better if I have a concrete plan in the short term, but more diffuse in the long term, allowing for changes that arise with experience.
 
