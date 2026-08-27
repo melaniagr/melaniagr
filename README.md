@@ -2,7 +2,7 @@
 
 ---
 
-# Melaniagr — Computational Neuroscience & Neuroengineering
+# Computational Neuroscience & Neuroengineering
 
 **Medical Doctor | Aspiring Child & Adolescent Psychiatry (CAP) Trainee | Aspiring Neuroengineering PhD Candidate**
 
