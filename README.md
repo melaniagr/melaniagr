@@ -72,12 +72,3 @@ Originally trained as a physician in Uruguay, I completed PLAB exams and have wo
 
 I use AI assistance (structured planning tools) to manage ADHD and maintain consistency in my self-directed learning. My approach: concrete short-term plans, flexible long-term goals — adjusting as experience reveals new directions.
 
----
-
-## Connect
-
-- 📧 [Email](mailto:your-email@domain.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📝 [Why Computational Neuroscience? — Research Statement](https://github.com/melaniagr/phd-prep/blob/main/research-statement-why-computational-cognitive-science.md)
-
-
