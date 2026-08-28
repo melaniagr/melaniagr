@@ -1,74 +1,67 @@
-**Computational Cognitive Science PhD Candidate Preparation**
+# Melania Geymonat Ramírez
 
----
+**Medical Doctor | CAP Trainee (Edinburgh) | Aspiring Neuroengineering PhD Candidate**
 
-# Computational Neuroscience & Neuroengineering
-
-**Medical Doctor | Aspiring Child & Adolescent Psychiatry (CAP) Trainee | Aspiring Neuroengineering PhD Candidate**
-
-📍 Edinburgh, Scotland 
+📍 Edinburgh, Scotland | 🧠 Bridging Clinical Psychiatry & Computational Modelling
 
 ---
 
 ## The Mission
 
-I am a medical doctor transitioning into computational neuroscience and neuroengineering — combining clinical psychiatry experience with quantitative methods to study the developing brain.
+I am a physician rebuilding my engineering foundation to study the developing brain mathematically.
 
-My path began with a single course: *Synapses, Neurons and Brains* by Idan Segev. It opened the door to describing the mind in mathematical terms — and I haven't looked back since.
+My journey began with Idan Segev’s *Synapses, Neurons and Brains*—a single course that revealed the mind could be described in equations. After years in neurosurgery, neurology, and humanitarian work (ICRC), I realized that clinical insight alone isn't enough. To truly understand disorders like autism or ADHD, we need **computational models** that simulate the decision-making processes underlying behavior.
 
-Clinical rotations in neurosurgery, neurology, and psychiatry grounded that fascination in patient care. Now I'm building the technical foundation to bridge both worlds: rigorous clinical insight + computational modelling.
-
----
-
-## Current Direction
-
-| Area | Detail |
-|------|--------|
-| **Clinical** | Child & Adolescent Psychiatry training (NHS Scotland, South East Deanery) |
-| **Quantitative** | MIT MicroMasters in Statistics and Data Science (starting May 2027) |
-| **Long-term** | PhD at the intersection of neuroengineering and developmental psychiatry |
+Now, I am executing a disciplined 4-year plan to bridge the gap between the clinic and the code.
 
 ---
 
-## Roadmap (2026–2030)
+## The Roadmap (2026–2030)
 
-| Period | Clinical | Quantitative | Milestone |
-|--------|----------|-------------|-----------|
-| Aug 2026 – Feb 2027 | MSRA prep | MIT 18.06 Linear Algebra + DataCamp Python | Foundations built |
-| Mar 2027 – Aug 2027 | Locum (pre-CAP) | Calculus refresh + **MicroMasters: Probability** | MicroMasters Course 1 |
-| Aug 2027 – Aug 2028 | CT1/ST1 CAP | MRCPsych Paper A + MicroMasters: Machine Learning | Paper A passed |
-| Aug 2028 – Aug 2029 | CT2/ST2 CAP | MRCPsych Paper B + MicroMasters: Data Analysis + Capstone | **MicroMasters complete** |
-| Aug 2029 – Aug 2030 | CT3/ST3 CAP | MRCPsych CASC + PhD applications | **PhD applications submitted** |
+| Phase | Timeline | Clinical Focus | Quantitative Focus | Key Milestone |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Foundations** | Aug '26 – Feb '27 | **MSRA Prep** | MIT 18.06 (Linear Algebra) + DataCamp Python | Math & Code Bedrock |
+| **2. Golden Window** | Mar '27 – Aug '27 | Locum Shifts | Calculus Refresh + **MITx: Probability** | MicroMasters Course 1 |
+| **3. Integration** | Aug '27 – Aug '29 | CAP Training (CT1/ST2) | MRCPsych Papers A/B + **MicroMasters: ML & Data** | MicroMasters Complete |
+| **4. Application** | Aug '29 – Aug '30 | CAP Training (CT3) | MRCPsych CASC + **PhD Applications** | PhD Submission |
 
-📖 [Full roadmap with weekly breakdown →](https://github.com/melaniagr/phd-prep/blob/main/roadmap.md)
+📖 [Detailed Weekly Roadmap →](https://github.com/melaniagr/phd-prep/blob/main/roadmap.md)
+
+---
+
+## Current Focus
+
+- 📘 **MIT OCW 18.06:** Linear Algebra (Eigenvalues, SVD, Least Squares)
+- 🐍 **DataCamp:** Data Scientist with Python (Pandas, Scikit-learn)
+- 🧠 **Intuition:** 3Blue1Brown's *Essence of Linear Algebra*
+
+---
+
+## My Background
+
+- **Medical:** MD (Uruguay), PLAB Qualified, 3+ years NHS Scotland (Neurosurgery, Critical Care).
+- **Engineering:** 1 year of formal engineering training (15 years ago) — currently refreshing.
+- **Humanitarian:** Change Manager for Digital Health (ICRC, 80+ centres in conflict zones).
+- **Research:** Primary Investigator on a scoping review (IMG Well-being, *under review*); Award-winning independent researcher.
+
+---
+
+## Tools & Approach
+
+I leverage my **ADHD-driven hyperfocus** for deep dives into complex theory, while using **rigid short-term structures** (weekly trackers, AI-assisted planning) to maintain consistency.
+
+> *"Structure enables materialization. Without a sequenced plan, effort disperses; with it, momentum builds."*
 
 ---
 
 ## Repositories
 
 | Repo | Description |
-|------|-------------|
-| [phd-prep](https://github.com/melaniagr/phd-prep) | Study plan, progress tracker, notes, and certifications |
-| [research-and-QI-portfolio](https://github.com/melaniagr/research-and-QI-portfolio) | Clinical audits, quality improvement projects, and applied research work |
-| [neurocomputing-portfolio](https://github.com/melaniagr/neurocomputing-portfolio) *(coming soon)* | Code projects: ML models, data analysis, and computational neuroscience notebooks |
+| :--- | :--- |
+| **[phd-prep](https://github.com/melaniagr/phd-prep)** | Strategic roadmap, progress tracker, and learning notes. |
+| **[research-and-QI](https://github.com/melaniagr/research-and-QI-portfolio)** | Published research, national presentations, and QI leadership. |
+| **[neurocomputing](https://github.com/melaniagr/neurocomputing-portfolio)** | *(Coming Soon)* Code projects: ML models, signal processing, simulations. |
 
 ---
 
-## Currently Learning
-
-- 📘 **MIT OCW 18.06 Linear Algebra** (Gilbert Strang) — eigenvalues, SVD, least squares
-- 🐍 **DataCamp: Data Scientist with Python** — pandas, scikit-learn, supervised/unsupervised learning
-- 🧠 **3Blue1Brown: Essence of Linear Algebra** — geometric intuition
-
----
-
-## Background
-
-Originally trained as a physician in Uruguay, I completed PLAB exams and have worked in NHS Scotland for 3 years. Before medicine, I completed one year of engineering — a foundation I am now rebuilding to pursue neuroengineering research.
-
----
-
-## Tools & Approach
-
-I use AI assistance (structured planning tools) to manage ADHD and maintain consistency in my self-directed learning. My approach: concrete short-term plans, flexible long-term goals — adjusting as experience reveals new directions.
-
+*Last Updated: August 2026*
