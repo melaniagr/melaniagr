@@ -18,8 +18,8 @@ I document my learning journey, research, and code projects in real-time.
 
 - 📘 **Learning Path:** Tracking progress through Linear Algebra, Calculus, and Machine Learning.
   → [View Weekly Progress](https://github.com/melaniagr/phd-prep/blob/main/progress-tracker.md)
-- 🧪 **Code & Models:** Implementing algorithms and analyzing data.
-  → [Visit Neurocomputing Portfolio](https://github.com/melaniagr/neurocomputing-portfolio) *(Active)*
+- 🧪 **Code & Models:** Computational notebooks are currently documented in
+  the [PhD preparation repository](https://github.com/melaniagr/phd-prep).
 - 📜 **Credentials:** Verified skills in Math, Data Science, and Clinical Research.
   → [View Certificate Inventory](https://github.com/melaniagr/certificates)
 
