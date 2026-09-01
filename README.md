@@ -6,6 +6,8 @@ Science MicroMasters and future computational neuroscience research.
 
 ---
 
+## Research Direction
+
 I am a physician rebuilding my engineering foundation to study the developing brain mathematically. My journey began with Idan Segev’s *Synapses, Neurons and Brains*—a single course that revealed the mind could be described in equations.
 
 Now, I am executing a disciplined transition from clinical practice to computational neuroscience, leveraging my background in psychiatry, neurosurgery, critical care, humanitarian work, and systems thinking.
