@@ -1,8 +1,8 @@
-# Melania Geymonat Ramírez
-
 **Medical Doctor | Aspiring Neuroengineering PhD Candidate**
 
-🧠 Bridging Clinical Psychiatry & Computational Modelling
+Currently building foundations in linear algebra, probability, Python,
+and machine learning in preparation for the MITx Statistics and Data
+Science MicroMasters and future computational neuroscience research.
 
 ---
 
