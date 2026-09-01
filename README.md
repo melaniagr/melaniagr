@@ -1,50 +1,59 @@
+# Melania Geymonat Ramírez
+
 **Medical Doctor | Aspiring Neuroengineering PhD Candidate**
 
-Currently building foundations in linear algebra, probability, Python,
-and machine learning in preparation for the MITx Statistics and Data
-Science MicroMasters and future computational neuroscience research.
-
----
+Edinburgh, Scotland
 
 ## Research Direction
 
-I am a physician rebuilding my engineering foundation to study the developing brain mathematically. My journey began with Idan Segev’s *Synapses, Neurons and Brains*—a single course that revealed the mind could be described in equations.
+I am building a transition from clinical medicine and healthcare systems
+work toward computational neuroscience and neuroengineering.
 
-Now, I am executing a disciplined transition from clinical practice to computational neuroscience, leveraging my background in psychiatry, neurosurgery, critical care, humanitarian work, and systems thinking.
+My interests include:
 
----
+- Computational models of cognition and decision-making
+- Neurocognitive development and mental health
+- Mathematical modelling of neural systems
+- Data-driven approaches to neuroscience and healthcare
 
-## Current Work
+## Current Preparation
 
-I document my learning journey, research, and code projects in real-time.
+I am currently building foundations in:
 
-- 📘 **Learning Path:** Tracking progress through Linear Algebra, Calculus, and Machine Learning.
-  → [View Weekly Progress](https://github.com/melaniagr/phd-prep/blob/main/progress-tracker.md)
-- 🧪 **Code & Models:** Computational notebooks are currently documented in
-  the [PhD preparation repository](https://github.com/melaniagr/phd-prep).
-- 📜 **Credentials:** Verified skills in Math, Data Science, and Clinical Research.
-  → [View Certificate Inventory](https://github.com/melaniagr/certificates)
+- Linear algebra
+- Calculus and probability
+- Python and scientific computing
+- Machine learning
+- Computational neuroscience
 
----
+My immediate academic goal is preparation for the
+MITx Statistics and Data Science MicroMasters, followed by PhD applications
+in computational neuroscience or neuroengineering.
+
+## Start Here
+
+- [PhD preparation roadmap](https://github.com/melaniagr/phd-prep/blob/main/roadmap.md)
+- [Current progress tracker](https://github.com/melaniagr/phd-prep/blob/main/progress-tracker.md)
+- [MIT 18.06 Linear Algebra evidence](https://github.com/melaniagr/phd-prep/tree/main/mathematics/mit-18.06-linear-algebra)
+- [Research and QI portfolio](https://github.com/melaniagr/research-and-QI-portfolio)
+- [Credentials and self-study evidence](https://github.com/melaniagr/certificates)
 
 ## Background
 
-- **Medical:** MD (UdelaR, Uruguay), PLAB Qualified, 3+ years NHS Scotland (Neurosurgery, Critical Care, Psychiatry).
-- **Engineering:** 1 year of formal engineering training (Universidad de Montevideo, currently refreshing).
-- **Humanitarian:** Change Manager for Digital Health (ICRC, 80+ centres).
-- **Research:** Primary Investigator on a scoping review (*under review*); Award-winning independent researcher.
+- Medical Doctor, Uruguay
+- NHS Scotland experience in psychiatry, neurosurgery and critical care
+- Humanitarian and digital-health experience with the ICRC
+- Research and quality-improvement experience
 
----
+## Evidence of Learning
 
-## Repositories
+I document learning through:
 
-| Repo | Description |
-| :--- | :--- |
-| **[phd-prep](https://github.com/melaniagr/phd-prep)** | Strategic roadmap, progress tracker, and learning notes. |
-| **[research-and-QI](https://github.com/melaniagr/research-and-QI-portfolio)** | Published research, national presentations, and QI leadership. |
-| **[neurocomputing](https://github.com/melaniagr/neurocomputing-portfolio)** | Code projects: ML models, signal processing, simulations. |
-| **[certificates](https://github.com/melaniagr/certificates)** | Organized inventory of credentials and self-study logs. |
+- Topic-based computational notebooks
+- Independent problem-solving attempts
+- Timed self-assessments
+- Error logs and reflections
+- Reproducible code and clear documentation
 
----
-
-*Last Updated: August 2026*
+Self-study records are labelled separately from formal qualifications and
+do not represent credentials awarded by the course provider.
