@@ -1,16 +1,14 @@
 # Melania Geymonat Ramírez
 
-**Medical Doctor | CAP Trainee (Edinburgh) | Aspiring Neuroengineering PhD Candidate**
+**Medical Doctor | Aspiring Neuroengineering PhD Candidate**
 
-📍 Edinburgh, Scotland | 🧠 Bridging Clinical Psychiatry & Computational Modelling
+🧠 Bridging Clinical Psychiatry & Computational Modelling
 
 ---
 
-## The Mission
-
 I am a physician rebuilding my engineering foundation to study the developing brain mathematically. My journey began with Idan Segev’s *Synapses, Neurons and Brains*—a single course that revealed the mind could be described in equations.
 
-Now, I am executing a disciplined transition from clinical practice to computational neuroscience, leveraging my background in neurosurgery, humanitarian work, and systems thinking.
+Now, I am executing a disciplined transition from clinical practice to computational neuroscience, leveraging my background in psychiatry, neurosurgery, critical care, humanitarian work, and systems thinking.
 
 ---
 
@@ -29,18 +27,10 @@ I document my learning journey, research, and code projects in real-time.
 
 ## Background
 
-- **Medical:** MD (Uruguay), PLAB Qualified, 3+ years NHS Scotland (Neurosurgery, Critical Care).
-- **Engineering:** 1 year of formal engineering training (currently refreshing).
+- **Medical:** MD (UdelaR, Uruguay), PLAB Qualified, 3+ years NHS Scotland (Neurosurgery, Critical Care, Psychiatry).
+- **Engineering:** 1 year of formal engineering training (Universidad de Montevideo, currently refreshing).
 - **Humanitarian:** Change Manager for Digital Health (ICRC, 80+ centres).
 - **Research:** Primary Investigator on a scoping review (*under review*); Award-winning independent researcher.
-
----
-
-## Tools & Approach
-
-I leverage **ADHD-driven hyperfocus** for deep dives into complex theory, while using **rigid short-term structures** to maintain consistency.
-
-> *"Structure enables materialization. Without a sequenced plan, effort disperses; with it, momentum builds."*
 
 ---
 
